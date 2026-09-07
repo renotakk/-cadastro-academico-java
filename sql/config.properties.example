@@ -1,0 +1,6 @@
+# Copie este arquivo para "config.properties" e preencha com seus dados.
+# O arquivo "config.properties" NÃO deve ser enviado ao GitHub (já está no .gitignore).
+
+db.url=jdbc:postgresql://localhost:5432/aula05
+db.user=postgres
+db.password=coloque_sua_senha_aqui
